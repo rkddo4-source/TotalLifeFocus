@@ -260,6 +260,12 @@ blockquote {
   font-weight: normal;
 }
 
+.tm-section-subtitle {
+  font-size: 1.8rem;
+  font-weight: normal;
+  padding-top: 25px;
+}
+
 .tm-intro-text {
   font-size: 1.2rem;
 }
